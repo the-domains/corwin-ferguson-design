@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Corwin Ferguson Design]]></title>
         <description><![CDATA[Corwin Ferguson Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/corwin-ferguson-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 17:15:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 17:20:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/corwin-ferguson-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TEST 1]]></title>
+            <description><![CDATA[<article><h1>TEST 1</h1><p>I am a test</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/723ffd17-7d2f-4fd4-8147-04a451544629.jpg"></article>]]></description>
+            <link>https://thegrid.ai/corwin-ferguson-design/test-1/index.html</link>
+            <guid isPermaLink="false">aaf9364b-fc77-41f7-aee5-fb0749c42bdb</guid>
+            <pubDate>Mon, 14 Mar 2016 17:19:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90b08102-1b0c-4f33-9526-16bf1dcefef7.jpg">]]></description>
-            <link>undefinedhome-page/index.html</link>
+            <link>https://thegrid.ai/corwin-ferguson-design/home-page/index.html</link>
             <guid isPermaLink="false">af3cec12-8eb5-48fb-85d3-018aebc0b4a1</guid>
             <pubDate>Mon, 14 Mar 2016 17:14:59 GMT</pubDate>
         </item>
