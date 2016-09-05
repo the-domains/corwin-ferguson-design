@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-02T03:49:09.601Z'
+datePublished: '2016-09-02T03:49:11.080Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-02T03:49:09.409Z'
+dateModified: '2016-09-02T03:49:10.870Z'
 title: ''
 publisher: {}
 description: 'Chasing Champions - Ships Company Theatre, 2016'
 sourcePath: _posts/2016-09-02-chasing-champions-ships-company-theatre-2016.md
-starred: true
+starred: false
 _type: Blurb
 
 ---
