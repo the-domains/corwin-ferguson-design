@@ -1,0 +1,17 @@
+---
+datePublished: '2016-09-02T03:49:07.045Z'
+inFeed: true
+author: []
+via: {}
+dateModified: '2016-09-02T03:48:30.182Z'
+title: ''
+publisher: {}
+description: 'Chasing Champions - Ships Company Theatre, 2016'
+starred: false
+sourcePath: _posts/2016-09-02-chasing-champions-ships-company-theatre-2016.md
+_type: Blurb
+
+---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc02f79e-beb1-442f-af74-269e4eb4ab9c.jpg)
+
+Chasing Champions - Ships Company Theatre, 2016
